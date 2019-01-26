@@ -1,2 +1,1 @@
-# CS146
-Statistics Course
+# Statistics
